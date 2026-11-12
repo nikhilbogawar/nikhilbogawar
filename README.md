@@ -171,7 +171,7 @@ interests: [AI Applications, Web Architecture, Open Source, UI/UX]
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h4>🎟️ <a href="https://github.com/nikhilbogawar/Ticketify-Secure-Event-Ticketing-Booking-System">Ticketify</a></h4>
+      <h4>🎟️ <a href="https://github.com/Aarthi23115/Ticketify-">Ticketify</a></h4>
       <p>A secure event ticketing and seat booking platform with user authentication, ticket inventory management, and digital pass generation.</p>
       <p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
